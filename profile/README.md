@@ -1,6 +1,4 @@
-We're currently working on changing our name to avoid any confusion with Chris Kempson's [Base16](https://github.com/chriskempson/base16) project.
-
-This organization was originally expected to be the new permanent home for that project, but unfortunately that did not quite go as planned.
+We've recently changed our name from [base16-project](https://github.com/base16-project) to avoid any confusion with Chris Kempson's [Base16](https://github.com/chriskempson/base16) project.
 
 For the full story please see our post [Base16 Project Lives On (soon to be renamed)](https://github.com/base16-project/base16/issues/51).
 
