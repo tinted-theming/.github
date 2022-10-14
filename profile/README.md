@@ -1,4 +1,4 @@
-We've recently changed our name from [tinted-theming](https://github.com/tinted-theming) to avoid any confusion with Chris Kempson's [Base16](https://github.com/chriskempson/base16) project.
+We've recently changed our name to [tinted-theming](https://github.com/tinted-theming) to avoid any confusion with Chris Kempson's [Base16](https://github.com/chriskempson/base16) project.
 
 For the full story please see our post [Base16 Project Lives On (soon to be renamed)](https://github.com/tinted-theming/base16/issues/51).
 
